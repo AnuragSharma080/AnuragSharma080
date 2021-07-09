@@ -1,18 +1,19 @@
 ### Hi there 👋 I am Pain
 ### Hi there 👋, ❍Hey There I'm Pain🌝
-###❍I'm from India 
-###❍I'm not any dev or something I'm here just for fun
-###❍Idk anything about coding but I'm trying to learn coding tho
-###❍Here are some of my details 
-###❍I like to create an fork cool telegram Bots
-#### Learning about forking and making telegram Bots 
-![Learning about forking and making telegram Bots ](https://telegra.ph/file/7477cc9a044914e033aad.jpg) [Telegram](https://t.me/Pain_to_this_world)
+### ❍I'm from India 
+### ❍I'm not any dev or something I'm here just for fun
+### ❍Idk anything about coding but I'm trying to learn coding tho
+### ❍Here are some of my details 
+### I like to create an fork cool telegram Bots
+### Learning about forking and making telegram Bots 
+![Learning about forking and making telegram Bots ](https://telegra.ph/file/7477cc9a044914e033aad.jpg) 
+### [Telegram](https://t.me/Pain_to_this_world)
 
-###❍I'm Newbie here...
+### ❍I'm Newbie here...
 
-Skills: I don't know much about coding 
+### Skills: I don't know much about coding 
 
-- ⚡ Fun fact: Idk anything about coding...  
+### ⚡ Fun fact: Idk anything about coding...  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnuragSharma080)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pain_to_this_world_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Pain_to_this_world)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/fun_just_group)  
