@@ -18,9 +18,9 @@
 ### [Instagram](https://www.instagram.com/pain_to_this_world_/)
 ### ❍I'm Newbie here...
 
-### Skills: I don't know much about coding 
+❍Skills: I don't know much about coding 
 
-### ⚡ Fun fact: Idk anything about coding...  
+❍⚡ Fun fact: Idk anything about coding...  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnuragSharma080)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pain_to_this_world_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Pain_to_this_world)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/fun_just_group)  
