@@ -1,14 +1,21 @@
  Hi there 👋 I am Pain 
  Hi there 👋, ❍Hey There I'm Pain🌝
- ❍I'm from India 
+
+❍I'm from India 
+
 ❍I'm not any dev or something I'm here just for fun
+
 ❍Idk anything about coding but I'm trying to learn coding tho
+
 ❍Here are some of my details 
+
 ❍I like to create an fork cool telegram Bots
-❍Learning about forking and making telegram Bots 
+
+❍Learning about forking and making telegram Bots
+
 ![Learning about forking and making telegram Bots ](https://telegra.ph/file/7477cc9a044914e033aad.jpg) 
 ### [Telegram](https://t.me/Pain_to_this_world)
-
+### [Instagram](https://www.instagram.com/pain_to_this_world_/)
 ### ❍I'm Newbie here...
 
 ### Skills: I don't know much about coding 
