@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Pain
 ### Hi there 👋, ❍Hey There I'm Pain🌝
 #### Learning about forking and making telegram Bots 
-![Learning about forking and making telegram Bots ](https://telegra.ph/file/7477cc9a044914e033aad.jpg)
+![Learning about forking and making telegram Bots ](https://telegra.ph/file/7477cc9a044914e033aad.jpg) [Telegram](https://t.me/Pain_to_this_world)
 
 I'm Newbie here...
 
