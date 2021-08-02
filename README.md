@@ -18,6 +18,8 @@
 ### [Instagram](https://www.instagram.com/pain_to_this_world_/)
 ❍I'm Newbie here...
 
+![Profile views](https://gpvc.arturio.dev/AnuragSharma080)
+
 ### Skills: I don't know much about coding 
 
 ### ⚡ Fun fact: Idk anything about coding...  
@@ -27,8 +29,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragSharma080&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/AnuragSharma080)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnuragSharma080)  
 
-![Profile views](https://gpvc.arturio.dev/AnuragSharma080)  
