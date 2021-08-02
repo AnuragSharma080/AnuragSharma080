@@ -26,6 +26,8 @@
 
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragSharma080&show_icons=true&count_private=true)  
+##   **Github Stats**
+![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=AnuragSharma080&show_icons=true&theme=tokyonight)
+  
   
 
