@@ -1,7 +1,6 @@
- Hi there 👋 I am Pain 
- ❍Hey There I'm Pain🌝
+ Hi there 👋 I am **Anurag**
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Some info about me</h3>
 
 - 🔭 I’m currently working on [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 
