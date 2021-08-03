@@ -44,9 +44,6 @@
       </p>  
 </details>
 
-![Profile views](https://gpvc.arturio.dev/AnuragSharma080)
-
-
 <details>
 <summary>My Stats 📊</summary><p align='middle'>
   <img src='https://github-readme-stats.vercel.app/api?username=AnuragSharma080&show_icons=true&theme=midnight-purple' width='500"'></p>
@@ -55,11 +52,3 @@
 </details>
 
 ---
-
-
-
-##   **Github Stats**
-![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=AnuragSharma080&show_icons=true&theme=tokyonight)
-  
-  
-
