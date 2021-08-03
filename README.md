@@ -1,4 +1,4 @@
- ### <img src="https://telegra.ph/file/021bee534496e82a2a624.gif" width="50px"> Hi there 👋 I am **Anurag** 
+ ### Hi there 👋 I am **Anurag** <img src="https://telegra.ph/file/021bee534496e82a2a624.gif" width="50px">
 
 <h3 align="center">Some info about me</h3>
 
