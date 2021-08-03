@@ -1,17 +1,23 @@
  Hi there 👋 I am Pain 
  ❍Hey There I'm Pain🌝
 
-❍I'm from India 
+<h3 align="center">A passionate frontend developer from India</h3>
 
-❍I'm not any dev or something I'm here just for fun lol
+- 🔭 I’m currently working on [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 
-❍Idk anything about coding but I'm trying to learn coding though
+- 🌱 I’m currently learning **Everything**
 
-❍Here are some of my details 
+- 👯 I’m looking to collaborate on [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 
-❍I like to create and fork cool telegram Bots
+- 🤝 I can't Do everything by myself I'm looking for help in [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 
-❍Learning about forking and making telegram Bots
+- 💬 Ask me about **The thing I know I'll surely help you**
+
+- 📫 How to reach me **anuragprodev123@gmail.com**
+
+- ⚡ Fun fact **I'm noob and I dunno anything about Coding**
+
+
 
 ![Learning about forking and making telegram Bots ][![Deploy](https://telegra.ph/file/de60e39e2cde10d527410.jpg)](https://t.me/pain_to_this_world)
 ### [Telegram](https://t.me/Pain_to_this_world)
