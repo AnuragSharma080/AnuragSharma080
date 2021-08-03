@@ -47,14 +47,15 @@
 ![Profile views](https://gpvc.arturio.dev/AnuragSharma080)
 
 
- <details>
+<details>
 <summary>My Stats 📊</summary><p align='middle'>
-  <img src='https://github-readme-stats.vercel.app/api?username=madboy482&show_icons=true&theme=midnight-purple' width='500"'></p>
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=AnuragSharma080482&theme=midnight-purple&show_icon=true' width='500"'></p> <p
+  <img src='https://github-readme-stats.vercel.app/api?username=AnuragSharma080&show_icons=true&theme=midnight-purple' width='500"'></p>
+  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=midnight-purple&show_icon=true' width='500"'></p> <p
   align='middle'><img src='https://komarev.com/ghpvc/?username=AnuragSharma080&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 </details>
 
 ---
+
 
 
 ##   **Github Stats**
