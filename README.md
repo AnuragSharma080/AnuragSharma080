@@ -20,7 +20,7 @@
 [![Deploy](https://telegra.ph/file/de60e39e2cde10d527410.jpg)](https://t.me/pain_to_this_world)
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/AnuragSharma080/anuragsharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/anuragsharma080/anuragsharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
 <a href="https://www.instagram.com/pain_to_this_world_/" target="white">
