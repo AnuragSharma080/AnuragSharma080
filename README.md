@@ -17,7 +17,7 @@
 
 
 
-![Learning about forking and making telegram Bots ][![Deploy](https://telegra.ph/file/de60e39e2cde10d527410.jpg)](https://t.me/pain_to_this_world)
+[![Deploy](https://telegra.ph/file/de60e39e2cde10d527410.jpg)](https://t.me/pain_to_this_world)
 ### [Telegram](https://t.me/Pain_to_this_world)
 ### [Instagram](https://www.instagram.com/pain_to_this_world_/)
 
