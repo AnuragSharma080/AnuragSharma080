@@ -23,6 +23,11 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/AnuragSharma080/AnuragSharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
+<a href="https://www.instagram.com/pain_to_this_world_/" target="white">
+  <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ 
+
 <details>
   <summary>My Tools ⚙️</summary>
   <p align='middle'>
@@ -41,9 +46,7 @@
     <code><a href="https://telegram.org/" target="_white"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
     <br>
       </p>  
- <a href="https://www.instagram.com/pain_to_this_world_/" target="white">
-  <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
+ 
  
 </details>
 
