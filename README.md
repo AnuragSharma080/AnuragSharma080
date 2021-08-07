@@ -26,8 +26,7 @@
 <a href="https://www.instagram.com/pain_to_this_world_/" target="white">
   <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- 
- <a href="https://www.instagram.com/pain_to_this_world/" target="blank">
+<a href="https://www.instagram.com/pain_to_this_world/" target="blank">
   <img align="center" alt="Sithum batrow's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
  </a>
  
