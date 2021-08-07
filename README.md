@@ -29,7 +29,6 @@
 <a href="https://www.telegram.com/pain_to_this_world/" target="blank">
   <img align="center" alt="Sithum batrow's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
  </a>
- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](anurag-sharma:anuragprodev123@gmail.com)
 
 <details>
   <summary>My Tools ⚙️</summary>
