@@ -18,8 +18,10 @@
 
 
 [![Deploy](https://telegra.ph/file/de60e39e2cde10d527410.jpg)](https://t.me/pain_to_this_world)
-### [Telegram](https://t.me/Pain_to_this_world)
-### [Instagram](https://www.instagram.com/pain_to_this_world_/)
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/AnuragSharma080/AnuragSharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 
 
 <details>
