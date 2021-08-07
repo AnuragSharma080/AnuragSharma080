@@ -1,4 +1,4 @@
- ### Hi there 👋 I am **Anurag** <img src="https://telegra.ph/file/0e717bfcc3462d6adcf1d.gif" width="50px">
+ ### <h2 align="center"><b>✨Hey I'm Anurag✨</b></h9> <img src="https://telegra.ph/file/0e717bfcc3462d6adcf1d.gif" width="50px">
 <h3 align="center">Some info about me</h3>
 
 - 🔭 I’m currently working on [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
