@@ -20,11 +20,15 @@
 [![Deploy](https://telegra.ph/file/de60e39e2cde10d527410.jpg)](https://t.me/pain_to_this_world)
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/AnuragSharma080/AnuragSharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/AnuragSharma080/anuragsharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
 <a href="https://www.instagram.com/pain_to_this_world_/" target="white">
   <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ 
+ <a href="https://www.instagram.com/pain_to_this_world/" target="blank">
+  <img align="center" alt="Sithum batrow's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
  </a>
  
 
