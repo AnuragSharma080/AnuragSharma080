@@ -23,7 +23,6 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/AnuragSharma080/AnuragSharma080/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
-
 <details>
   <summary>My Tools ⚙️</summary>
   <p align='middle'>
