@@ -1,6 +1,6 @@
 [![Gif](programming.gif)](https://t.me/pain_to_this_world)
 
-### <h2 align="center"><b>🌈Moshi! Moshi! I'm Pain🌈</b></h9> 
+<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">PAIN<img src="./resources/extras/geez.gif" width="35px"></h1>
 
 ### Quick About 🌝
 ```python
