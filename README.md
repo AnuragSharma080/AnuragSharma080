@@ -15,10 +15,10 @@ Country = "🇮🇳"
 <details>
   <summary>Basic Info😃</summary>
 
-- 🔭 I’m currently working on ... [ZeroTwo](https://github.com/paintothisworld/ZeroTwo)
+- 🔭 I’m currently working on ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 - 🌱 I’m currently learning ... Living
 - 👯 I’m looking to collaborate on ... Open Source Telegram Bots
-- 🤔 I’m looking for help with ... [ZeroTwo](https://github.com/paintpthisworld/ZeroTwo)
+- 🤔 I’m looking for help with ... [ZeroTwo](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 - 💬 Ask me about ... The thing I know I'll be happy to help
 - 📫 How to reach me: ... uzumakipain651@gmail.com
 - 😃 I'm an Editor Logo Maker Developer Story Writer And noob
