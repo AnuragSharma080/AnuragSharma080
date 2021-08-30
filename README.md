@@ -85,12 +85,12 @@ Country = "🇮🇳"
   <summary>My GitHub Stats⭐</summary>
    
   
-  <p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=PainToThisWorld&hide_border_show_icons=true&theme=gotham' width='600"'></p>  
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=AnuragSharma080&hide_border_show_icons=true&theme=gotham' width='600"'></p>  
   <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=PainToThisWorld&theme=gotham&show_icon=true' width='600"'></p> <p
   
-  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=paintothisworld&layout=compact&theme=gotham&show_icon=true' width='600"'></p> <p
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSharma080&layout=compact&theme=gotham&show_icon=true' width='600"'></p> <p
   
    #### Profile Views 
-  <p align='top'><img src='https://profile-counter.glitch.me/{paintothisworld}/count.svg'
+  <p align='top'><img src='https://profile-counter.glitch.me/{anuragSharma080}/count.svg'
   
 </details>
