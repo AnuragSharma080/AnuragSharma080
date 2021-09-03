@@ -18,11 +18,11 @@ Country = "🇮🇳"
 - 🔭 I’m currently working on ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 - 🌱 I’m currently learning ... Living
 - 👯 I’m looking to collaborate on ... Open Source Telegram Bots
-- 🤔 I’m looking for help with ... [ZeroTwo](https://github.com/AnuragSharma080/MizuharaSmexyBot)
+- 🤔 I’m looking for help with ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
 - 💬 Ask me about ... The thing I know I'll be happy to help
 - 📫 How to reach me: ... uzumakipain651@gmail.com
 - 😃 I'm an Editor Logo Maker Developer Story Writer And noob
-- ⚡ Fun fact: ... I dunno..
+- ⚡ Fun fact: ... Dunno Much About Coding but still trying
 </details>
 
 <details>
