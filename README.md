@@ -7,9 +7,11 @@
 Name = "Pain"
 who_i_am = ['Noob':  'Still_Learning']
 Still_Learning = "Living"
-Country = "🇮🇳"
+Country = "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
 ```
-
+Dunno Much about coding but trying my best.
+My 2021 Goal Is to improve my English and Contribute ad much as possible to open source telegram bot.I like reading manga and watching anime that's why most of my telegram bots are named after anime characters.Currently Giving my best on [MizuharaSmexyBot](https://github.com/AnuragSharma080) Not gonna waste too much time on my profile so here are what you are looking for
+👇👇👇👇👇
 
 
 <details>
