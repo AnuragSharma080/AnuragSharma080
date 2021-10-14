@@ -10,17 +10,17 @@ Still_Learning = "Living"
 Country = "🌍"
 ```
 Dunno Much about coding but trying my best.
-My 2021 Goal Is to improve my English and Contribute as much as possible to open source telegram bot.I like reading manga and watching anime that's why most of my telegram bots are named after anime characters.Currently Giving my best on [MizuharaSmexyBot](https://github.com/AnuragSharma080) Not gonna waste too much time on my profile so here are what you are looking for
+My 2021 Goal Is to improve my English and Contribute as much as possible to open source telegram bot.I like reading manga and watching anime that's why most of my telegram bots are named after anime characters.Currently Giving my best on [MizuharaSmexyBot](https://github.com/AnuragSharma080) {Closed Source} Not gonna waste too much time on my profile so here are what you are looking for
 👇👇👇👇👇
 
 
 <details>
   <summary>Basic Info😃</summary>
 
-- 🔭 I’m currently working on ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
+- 🔭 I’m currently working on ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot) {Closed Source}
 - 🌱 I’m currently learning ... Living
 - 👯 I’m looking to collaborate on ... Open Source Telegram Bots
-- 🤔 I’m looking for help with ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot)
+- 🤔 I’m looking for help with ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot) {Closed Source}
 - 💬 Ask me about ... The thing I know I'll be happy to help
 - 📫 How to reach me: ... uzumakipain651@gmail.com
 - 😃 I'm an Editor Logo Maker Developer Story Writer And noob
