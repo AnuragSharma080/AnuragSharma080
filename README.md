@@ -13,6 +13,8 @@ Dunno Much about coding but trying my best.
 My 2021 Goal Is to improve my English and Contribute as much as possible to open source telegram bot.I like reading manga and watching anime that's why most of my telegram bots are named after anime characters.Currently Giving my best on [MizuharaSmexyBot](https://github.com/AnuragSharma080) {Closed Source} Not gonna waste too much time on my profile so here are what you are looking for
 👇👇👇👇👇
 
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 <details>
   <summary>Basic Info😃</summary>
@@ -92,9 +94,5 @@ My 2021 Goal Is to improve my English and Contribute as much as possible to open
   
    #### Profile Views 
   <p align='top'><img src='https://profile-counter.glitch.me/{anuragSharma080}/count.svg'
-  
-</details>
 
 
-## 🎵 Now playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
