@@ -94,3 +94,7 @@ My 2021 Goal Is to improve my English and Contribute as much as possible to open
   <p align='top'><img src='https://profile-counter.glitch.me/{anuragSharma080}/count.svg'
   
 </details>
+
+
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
