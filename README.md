@@ -89,4 +89,4 @@ My Tools ⚙️
    #### Profile Views 
   <p align='top'><img src='https://profile-counter.glitch.me/{Pain-Senpai}/count.svg'
 
-<details>
+</details>
