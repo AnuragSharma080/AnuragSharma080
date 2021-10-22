@@ -71,11 +71,11 @@ My Tools ⚙️
    
   
   <p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Pain-Senpai&hide_border_show_icons=true&theme=midnight-purple' width='600"'></p>  
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Pain-Senpaid&theme=midnight-purple&show_icon=true' width='600"'></p> <p
   
-  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pain-Senpai&layout=compact&theme=midnight-purple&show_icon=true' width='600"'></p> <p
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pain-Senpai&repo=https://github.com/Pain-Senpai/MizuharaSmexyBot-readme-stats)](https://github.com/Pain-Senpai/github-readme-stats)  
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pain-Senpai&langs_count=8)](https://github.com/Pain-Senpai/github-readme-stats)
   
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pain-Senpai&layout=compact&theme=midnight-purple&show_icon=true' width='600"'></p>
+    
   
    #### Profile Views 
   <p align='top'><img src='https://profile-counter.glitch.me/{Pain-Senpai}/count.svg'
