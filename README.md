@@ -55,20 +55,17 @@ My Tools ⚙️
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pain_to_this_world)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzumakipain651@gmail.com)
-  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pain_to_this_world_/?hl=en)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PainToThisWorld)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pain-Senpai)
  
    
   My Languages⚰️
   
   
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   
@@ -83,7 +80,7 @@ My Tools ⚙️
   <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Pain-Senpaid&theme=midnight-purple&show_icon=true' width='600"'></p> <p
   
   <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pain-Senpai&layout=compact&theme=midnight-purple&show_icon=true' width='600"'></p> <p
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pain-Senpai&repo=https://github.com/Pain-Senpai/Pain-Senpai-readme-stats)](https://github.com/Pain-Senpai/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pain-Senpai&repo=https://github.com/Pain-Senpai/MizuharaSmexyBot-readme-stats)](https://github.com/Pain-Senpai/github-readme-stats)  
   
   
    #### Profile Views 
