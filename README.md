@@ -11,9 +11,6 @@ Dunno Much about coding but trying my best.
 My 2021 Goal Is to improve my English and Contribute as much as possible to open source telegram bot.I like reading manga and watching anime that's why most of my telegram bots are named after anime characters.Currently Giving my best on [MizuharaSmexyBot](https://github.com/AnuragSharma080) {Closed Source} Not gonna waste too much time on my profile so here are what you are looking for
 👇👇👇👇👇
 
-## 🎵 Now playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
-
 Basic Info😃
 
 - 🔭 I’m currently working on ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot) {Closed Source}
@@ -28,24 +25,7 @@ Basic Info😃
 
 My Tools ⚙️
   
-  
-  <p align='middle'>
-    <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
-    <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
-    <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
-    <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
-    <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
-    <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
-    <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://telegram.org/" target="_white"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
-    <br>
-      </p>  
- 
+  ![Tool](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![Tool](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Tool](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![Tool](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Tool](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
 
   How TO reach Me😌
