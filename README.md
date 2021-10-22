@@ -47,6 +47,11 @@ My 2021 Goal Is to improve my English and Contribute as much as possible to open
   ### My Devices and Platforms
    ![Tool](https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white) ![Tool](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Tool](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   
+  ### For Refreshment 
+  
+  ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white) ![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) ![](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+  
+  
   <details>
   <summary>My GitHub Stats⭐</summary>
    
