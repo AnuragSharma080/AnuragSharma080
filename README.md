@@ -11,7 +11,7 @@ Dunno Much about coding but trying my best.
 My 2021 Goal Is to improve my English and Contribute as much as possible to open source telegram bot.I like reading manga and watching anime that's why most of my telegram bots are named after anime characters.Currently Giving my best on [MizuharaSmexyBot](https://github.com/AnuragSharma080) {Closed Source} Not gonna waste too much time on my profile so here are what you are looking for
 👇👇👇👇👇
 
-Basic Info😃
+### Basic Info😃
 
 - 🔭 I’m currently working on ... [MizuharaSmexyBot](https://github.com/AnuragSharma080/MizuharaSmexyBot) {Closed Source}
 - 🌱 I’m currently learning ... Living
@@ -23,13 +23,13 @@ Basic Info😃
 - ⚡ Fun fact: ... Dunno Much About Coding but still trying
 
 
-My Tools ⚙️
+### My Tools ⚙️
   
   ![Tool](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![Tool](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Tool](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![Tool](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Tool](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
  ![Tool](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Tool](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ![Tools](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) ![Tools](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Tools](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Tools](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  How TO reach Me😌
+  ### How TO reach Me😌
     
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pain_to_this_world)
@@ -38,13 +38,14 @@ My Tools ⚙️
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pain-Senpai)
  
    
-  My Languages⚰️
+  ### My Languages⚰️
   
   
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  
-  
+  ### My Devices and Platforms
+   ![Tool](https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white) ![Tool](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Tool](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   
   <details>
   <summary>My GitHub Stats⭐</summary>
