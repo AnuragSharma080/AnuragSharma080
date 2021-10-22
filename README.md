@@ -1,5 +1,3 @@
-[![Gif](programming.gif)](https://t.me/pain_to_this_world)
-
 <h1 align="center"><img src="./resources/extras/geez.gif" width="35px">PAIN<img src="./resources/extras/geez.gif" width="35px"></h1>
 
 ### Quick About 🌝
