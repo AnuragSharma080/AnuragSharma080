@@ -1,4 +1,4 @@
-### Hello There I Am Pain || ![Ok](https://komarev.com/ghpvc/?username=pain-senpai&label=Profile%20views&color=0e75b6&style=flat)
+### Hello there I am Pain || ![Ok](https://komarev.com/ghpvc/?username=pain-senpai&label=Profile%20views&color=0e75b6&style=flat)
 
 Most of the Repos on my profile are for telegram Bots. I am The Owner of [Project Tsukiyomi](https://t.me/Project_Tsukiyomi/06) An Weeb doing his thing in his own way... 
 
@@ -6,7 +6,7 @@ Most of the Repos on my profile are for telegram Bots. I am The Owner of [Projec
 Searching for a new project that exites me to code more! I barely code now days. 
 
 ### I prefer 
-Peace over happiness 
+Peace over happiness
 
 Solitude over gatherings 
 
@@ -30,4 +30,4 @@ DC over Marvel
 
 
 ### Github Stats
-![Ok](https://github-readme-stats.vercel.app/api?username=pain-senpai&theme=midnight-purple&show_icons=true)
+![Ok](https://github-readme-stats.vercel.app/api?username=pain-senpai&theme=Gotham&show_icons=true)
