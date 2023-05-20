@@ -33,4 +33,4 @@ DC over Marvel
 
 
 ### Github Stats
-![Ok](https://github-readme-stats.vercel.app/api?username=pain-senpai&theme=github&show_icons=true)
+![Ok](https://github-readme-stats.vercel.app/api?username=pain-senpai&theme=react&show_icons=true)
