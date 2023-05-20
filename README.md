@@ -21,9 +21,8 @@ DC over Marvel
  I am a professional procrastinator & 
  a sarcasm connoisseur***
 
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=pain-senpai&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=pain-senpai&custom_title=Pain's%20contributions&hide_border=true&theme=react)
 <a href="https://github.com/Pain-Senpai/github-stats">
- 
 
 ### Contact Me Via 
 •「[Gmail](mailto:contactitami@gmail.com)」
@@ -33,4 +32,4 @@ DC over Marvel
 
 
 ### Github Stats
-![Ok](https://github-readme-stats.vercel.app/api?username=pain-senpai&theme=react&show_icons=true)
+![Ok](https://github-readme-stats.vercel.app/api?username=pain-senpai&custom_title=Pain's%20Github%20Stats&hide_border=true&theme=react&show_icons=true)
