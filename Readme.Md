@@ -5,19 +5,14 @@
 ### Currently 
 Searching for a new project that exites me to code more! I barely code now days. 
 
-### I prefer 
-Peace over happiness
 
-Solitude over gatherings 
 
-Cats over Dogs 
 
-Watching Anime over TV shows 
 
-DC over Marvel 
-(my humor is broken btw) 
+
+
  
-***I like making fun anime themed projects. 
+***I like making fun anime themed projects.***
 
  
 ### Github Activity & Contribution Stats 
