@@ -18,8 +18,7 @@ DC over Marvel
 (my humor is broken btw) 
  
 ***I like making fun anime themed projects. 
- I am a professional procrastinator & 
- a sarcasm connoisseur***
+
  
 ### Github Activity & Contribution Stats 
 
